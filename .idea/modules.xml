@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EulerProjects/EulerProjects.iml" filepath="$PROJECT_DIR$/EulerProjects/EulerProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Personal/Personal.iml" filepath="$PROJECT_DIR$/Personal/Personal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/personalProjects.iml" filepath="$PROJECT_DIR$/personalProjects.iml" />
+    </modules>
+  </component>
+</project>
